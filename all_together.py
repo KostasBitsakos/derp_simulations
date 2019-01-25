@@ -2,7 +2,8 @@ import numpy as np
 import random
 import tensorflow as tf
 import csv
-from ReadLoad import *
+from simple import *
+from complex import *
 import matplotlib.pyplot as plt
 from ExtraFunctions import *
 
